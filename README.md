@@ -1,16 +1,17 @@
+
+
 ## Hi there 👋
+My name is Vlad Horobchenko. I am an MCC (Macomb Community College) student learning C++, Python, and network automation.
 
-<!--
-**vh71ua/vh71ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ITSC 2530 - C++ Programming Assignments
+### My current activities:
+- 🔭 Working on creating my GitHub profile and going through my first C++ class assignments 
+- 🌱 Learning the basic concepts of the C++ language: data types, operators, and how to write C++ programs
+- 💻 Building a modular C++ console utility for hardware inventory tracking and local lab device status monitoring
+- 🛠️ Getting familiar with Visual Studio, its C++ feature set, coding, debugging, GitHub integration, and built-in AI features
+- 🚀 GitHub is new to me as well, so I am actively completing training and practice tasks
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech & Tools Focus
+- **Languages:** C++, Python
+- **Infrastructure & Networking:** Cisco, UniFi, Linux (Fedora, Debian, AlmaLinux)
+- **Development Tools:** Visual Studio, Visual Studio Code, Git, GitHub
