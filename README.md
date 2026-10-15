@@ -13,4 +13,4 @@ My name is Vlad Horobchenko. I am an MCC (Macomb Community College) student lear
 ### 🧰 Tech & Tools Focus
 - **Languages:** C++, Python
 - **Infrastructure & Networking:** Cisco, UniFi, Linux (Fedora, Debian, AlmaLinux)
-- **Development Tools:** Visual Studio, Visual Studio Code, Git, GitHub
+- **Development Tools:** Visual Studio, Visual Studio Code, Git, GitHub 
