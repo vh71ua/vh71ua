@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-My name is Vlad Horobchenko. I am an MCC (Macomb Community College) student learning C++, Python, and network automation.
+My name is **Vlad Horobchenko**. I am an MCC (Macomb Community College) student learning C++, Python, and network automation.
 
 ## ITSC 2530 - C++ Programming Assignments
 ### My current activities:
