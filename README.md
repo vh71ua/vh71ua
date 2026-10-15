@@ -1,5 +1,4 @@
 
-
 ## Hi there 👋
 My name is Vlad Horobchenko. I am an MCC (Macomb Community College) student learning C++, Python, and network automation.
 
